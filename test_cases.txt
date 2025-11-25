@@ -1,0 +1,19 @@
+Test Case 1: Greeting
+Input: Hello
+Expected Output: Chatbot: Hi there! How can I help you?
+Test Case 2: Identity
+Input: Who are you?
+Expected Output: Chatbot: I am a Python Chatbot created for Task 8.
+Test Case 3: Small Talk
+Input: How are you doing today?
+Expected Output: Chatbot: I'm just a computer program, but I'm functioning perfectly! How are you?
+Test Case 4: Joke capability
+Input: Tell me a joke
+Expected Output: Chatbot: Why did the Python programmer needing glasses? Because he couldn't C# (see sharp)!
+Test Case 5: Unknown Input (Fallback)
+Input: What is the capital of France?
+Expected Output: Chatbot: I'm not sure I understand that. Can you try asking something else?
+Test Case 6: Exiting
+Input: bye
+Expected Output: Chatbot: Goodbye! Have a great day!
+(Program should terminate)
