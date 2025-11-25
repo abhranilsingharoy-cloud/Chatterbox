@@ -1,5 +1,6 @@
 # Chatterbox
 Rule-Based Chatbot
+A Chatbot using if-else
 # Overview
 This project is a simple rule-based chatbot built using Python. It demonstrates the use of while loops for continuous interaction and if-elif-else statements for processing user logic, covering basic Natural Language Processing (NLP) concepts.
 # Objective
